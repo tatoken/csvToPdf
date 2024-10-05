@@ -251,7 +251,7 @@ except ImportError:
 
 clear_console()
 
-text = "---CsvToPdv---"
+text = "---CsvToPdf---"
 ascii_art = pyfiglet.figlet_format(text)
 print(ascii_art)
 
