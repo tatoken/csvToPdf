@@ -9,6 +9,7 @@ Funzionalità principali:
  - Semplice da usare.
 Questo strumento è ideale per chi deve lavorare con grandi quantità di dati CSV e vuole poterli manipolare in modo efficiente e personalizzato.
 
+## Come usarlo
 
 Marco lizza 2024 ©
 
@@ -21,3 +22,5 @@ Key Features:
  - Data Aggregation: It is possible to group data based on the values of a specific column, making dataset analysis and management easier.
  - User-friendly.
 This tool is ideal for those working with large amounts of CSV data who want to manipulate it efficiently and in a customized way.
+
+## How to use
