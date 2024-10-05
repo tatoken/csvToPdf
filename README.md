@@ -14,9 +14,9 @@ Questo strumento è ideale per chi deve lavorare con grandi quantità di dati CS
 Per utilizzare questo programma, assicurati di avere i seguenti file nella cartella `resources` all'interno della directory del progetto:
 
 1. **logo.png**: Questo file deve contenere il logo che verrà inserito nella parte superiore del documento PDF generato.
-2. **document.csv**: Questo è il file CSV che verrà elaborato per generare il documento PDF.
+2. **document.csv**: Questo è il file CSV che verrà elaborato per generare il documento PDF (controllare che il separatore sia ; altrimenti modificare il codice indicando come separatore , o qualsiasi altro separatore sia stato usato ).
 3. **collapse.txt**: Questo file deve contenere una sola parola, che è il nome della colonna secondo cui i dati verranno raggruppati (collassati).
-4. **columns.txt**: Questo file deve contenere l'elenco delle colonne che si desidera mantenere nel file CSV.
+4. **columns.txt**: Questo file deve contenere l'elenco delle colonne che si desidera mantenere nel file CSV, vanno elencate una sotto l'altra come nell'esempio.
 
 ## Utilizzo
 
@@ -74,9 +74,9 @@ This tool is ideal for those working with large amounts of CSV data who want to 
 To use this program, ensure you have the following files in the `resources` folder within the project directory:
 
 1. **logo.png**: This file should contain the logo that will be placed at the top of the generated PDF document.
-2. **document.csv**: This is the CSV file that will be processed to generate the PDF document.
+2. **document.csv**: This is the CSV file that will be processed to generate the PDF document (ensure that the separator is ;; otherwise, modify the code to indicate , or any other separator that has been used).
 3. **collapse.txt**: This file should contain a single word, which is the name of the column by which the data will be grouped (collapsed).
-4. **columns.txt**: This file should contain the list of columns that you want to keep from the CSV file.
+4. **columns.txt**: This file should contain the list of columns that you want to keep from the CSV file, listed one under the other as shown in the example.
 
 ## Usage
 
