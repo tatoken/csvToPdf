@@ -1,0 +1,8 @@
+Username
+Identifier
+First name
+Last name
+Email
+Phone Number
+Occupation
+Gender

@@ -1,0 +1,356 @@
+{
+    "rachel.booker@example.com": [
+        {
+            "Username": "booker12",
+            "Identifier": "9012",
+            "First name": "Rachel",
+            "Last name": "Booker",
+            "Phone Number": "123-456-7890",
+            "Occupation": "Teacher",
+            "Gender": "Female"
+        },
+        {
+            "Username": "booker12",
+            "Identifier": "9012",
+            "First name": "Rachel",
+            "Last name": "Booker",
+            "Phone Number": "123-456-7890",
+            "Occupation": "Teacher",
+            "Gender": "Female"
+        },
+        {
+            "Username": "booker12",
+            "Identifier": "9012",
+            "First name": "Rachel",
+            "Last name": "Booker",
+            "Phone Number": "123-456-7890",
+            "Occupation": "Teacher",
+            "Gender": "Female"
+        },
+        {
+            "Username": "booker12",
+            "Identifier": "9012",
+            "First name": "Rachel",
+            "Last name": "Booker",
+            "Phone Number": "123-456-7890",
+            "Occupation": "Teacher",
+            "Gender": "Female"
+        }
+    ],
+    "laura.grey@example.com": [
+        {
+            "Username": "grey07",
+            "Identifier": "2070",
+            "First name": "Laura",
+            "Last name": "Grey",
+            "Phone Number": "234-567-8901",
+            "Occupation": "Engineer",
+            "Gender": "Female"
+        },
+        {
+            "Username": "grey07",
+            "Identifier": "2070",
+            "First name": "Laura",
+            "Last name": "Grey",
+            "Phone Number": "234-567-8901",
+            "Occupation": "Engineer",
+            "Gender": "Female"
+        },
+        {
+            "Username": "grey07",
+            "Identifier": "2070",
+            "First name": "Laura",
+            "Last name": "Grey",
+            "Phone Number": "234-567-8901",
+            "Occupation": "Engineer",
+            "Gender": "Female"
+        },
+        {
+            "Username": "grey07",
+            "Identifier": "2070",
+            "First name": "Laura",
+            "Last name": "Grey",
+            "Phone Number": "234-567-8901",
+            "Occupation": "Engineer",
+            "Gender": "Female"
+        }
+    ],
+    "craig.johnson@example.com": [
+        {
+            "Username": "johnson81",
+            "Identifier": "4081",
+            "First name": "Craig",
+            "Last name": "Johnson",
+            "Phone Number": "345-678-9012",
+            "Occupation": "Designer",
+            "Gender": "Male"
+        },
+        {
+            "Username": "johnson81",
+            "Identifier": "4081",
+            "First name": "Craig",
+            "Last name": "Johnson",
+            "Phone Number": "345-678-9012",
+            "Occupation": "Designer",
+            "Gender": "Male"
+        },
+        {
+            "Username": "johnson81",
+            "Identifier": "4081",
+            "First name": "Craig",
+            "Last name": "Johnson",
+            "Phone Number": "345-678-9012",
+            "Occupation": "Designer",
+            "Gender": "Male"
+        },
+        {
+            "Username": "johnson81",
+            "Identifier": "4081",
+            "First name": "Craig",
+            "Last name": "Johnson",
+            "Phone Number": "345-678-9012",
+            "Occupation": "Designer",
+            "Gender": "Male"
+        }
+    ],
+    "mary.jenkins@example.com": [
+        {
+            "Username": "jenkins46",
+            "Identifier": "9346",
+            "First name": "Mary",
+            "Last name": "Jenkins",
+            "Phone Number": "456-789-0123",
+            "Occupation": "Nurse",
+            "Gender": "Female"
+        },
+        {
+            "Username": "jenkins46",
+            "Identifier": "9346",
+            "First name": "Mary",
+            "Last name": "Jenkins",
+            "Phone Number": "456-789-0123",
+            "Occupation": "Nurse",
+            "Gender": "Female"
+        },
+        {
+            "Username": "jenkins46",
+            "Identifier": "9346",
+            "First name": "Mary",
+            "Last name": "Jenkins",
+            "Phone Number": "456-789-0123",
+            "Occupation": "Nurse",
+            "Gender": "Female"
+        },
+        {
+            "Username": "jenkins46",
+            "Identifier": "9346",
+            "First name": "Mary",
+            "Last name": "Jenkins",
+            "Phone Number": "456-789-0123",
+            "Occupation": "Nurse",
+            "Gender": "Female"
+        },
+        {
+            "Username": "jenkins46",
+            "Identifier": "9346",
+            "First name": "Mary",
+            "Last name": "Jenkins",
+            "Phone Number": "456-789-0123",
+            "Occupation": "Nurse",
+            "Gender": "Female"
+        },
+        {
+            "Username": "jenkins46",
+            "Identifier": "9346",
+            "First name": "Mary",
+            "Last name": "Jenkins",
+            "Phone Number": "456-789-0123",
+            "Occupation": "Nurse",
+            "Gender": "Female"
+        },
+        {
+            "Username": "jenkins46",
+            "Identifier": "9346",
+            "First name": "Mary",
+            "Last name": "Jenkins",
+            "Phone Number": "456-789-0123",
+            "Occupation": "Nurse",
+            "Gender": "Female"
+        }
+    ],
+    "jamie.smith@example.com": [
+        {
+            "Username": "smith79",
+            "Identifier": "5079",
+            "First name": "Jamie",
+            "Last name": "Smith",
+            "Phone Number": "567-890-1234",
+            "Occupation": "Developer",
+            "Gender": "Non-binary"
+        },
+        {
+            "Username": "smith79",
+            "Identifier": "5079",
+            "First name": "Jamie",
+            "Last name": "Smith",
+            "Phone Number": "567-890-1234",
+            "Occupation": "Developer",
+            "Gender": "Non-binary"
+        },
+        {
+            "Username": "smith79",
+            "Identifier": "5079",
+            "First name": "Jamie",
+            "Last name": "Smith",
+            "Phone Number": "567-890-1234",
+            "Occupation": "Developer",
+            "Gender": "Non-binary"
+        },
+        {
+            "Username": "smith79",
+            "Identifier": "5079",
+            "First name": "Jamie",
+            "Last name": "Smith",
+            "Phone Number": "567-890-1234",
+            "Occupation": "Developer",
+            "Gender": "Non-binary"
+        },
+        {
+            "Username": "smith79",
+            "Identifier": "5079",
+            "First name": "Jamie",
+            "Last name": "Smith",
+            "Phone Number": "567-890-1234",
+            "Occupation": "Developer",
+            "Gender": "Non-binary"
+        },
+        {
+            "Username": "smith79",
+            "Identifier": "5079",
+            "First name": "Jamie",
+            "Last name": "Smith",
+            "Phone Number": "567-890-1234",
+            "Occupation": "Developer",
+            "Gender": "Non-binary"
+        },
+        {
+            "Username": "smith79",
+            "Identifier": "5079",
+            "First name": "Jamie",
+            "Last name": "Smith",
+            "Phone Number": "567-890-1234",
+            "Occupation": "Developer",
+            "Gender": "Non-binary"
+        }
+    ],
+    "adam.johnson@example.com": [
+        {
+            "Username": "adam23",
+            "Identifier": "1001",
+            "First name": "Adam",
+            "Last name": "Johnson",
+            "Phone Number": "678-901-2345",
+            "Occupation": "Manager",
+            "Gender": "Male"
+        }
+    ],
+    "lindsey.wilson@example.com": [
+        {
+            "Username": "lindsey45",
+            "Identifier": "1002",
+            "First name": "Lindsey",
+            "Last name": "Wilson",
+            "Phone Number": "789-012-3456",
+            "Occupation": "Analyst",
+            "Gender": "Female"
+        }
+    ],
+    "michael.brown@example.com": [
+        {
+            "Username": "michael34",
+            "Identifier": "1003",
+            "First name": "Michael",
+            "Last name": "Brown",
+            "Phone Number": "890-123-4567",
+            "Occupation": "Developer",
+            "Gender": "Male"
+        }
+    ],
+    "susan.smith@example.com": [
+        {
+            "Username": "susan88",
+            "Identifier": "1004",
+            "First name": "Susan",
+            "Last name": "Smith",
+            "Phone Number": "901-234-5678",
+            "Occupation": "Sales",
+            "Gender": "Female"
+        }
+    ],
+    "david.miller@example.com": [
+        {
+            "Username": "david47",
+            "Identifier": "1005",
+            "First name": "David",
+            "Last name": "Miller",
+            "Phone Number": "012-345-6789",
+            "Occupation": "Intern",
+            "Gender": "Male"
+        }
+    ],
+    "emily.davis@example.com": [
+        {
+            "Username": "emily67",
+            "Identifier": "1006",
+            "First name": "Emily",
+            "Last name": "Davis",
+            "Phone Number": "123-456-7891",
+            "Occupation": "Consultant",
+            "Gender": "Female"
+        }
+    ],
+    "stephen.garcia@example.com": [
+        {
+            "Username": "stephen22",
+            "Identifier": "1007",
+            "First name": "Stephen",
+            "Last name": "Garcia",
+            "Phone Number": "234-567-8902",
+            "Occupation": "Director",
+            "Gender": "Male"
+        }
+    ],
+    "karen.martinez@example.com": [
+        {
+            "Username": "karen29",
+            "Identifier": "1008",
+            "First name": "Karen",
+            "Last name": "Martinez",
+            "Phone Number": "345-678-9013",
+            "Occupation": "Lawyer",
+            "Gender": "Female"
+        }
+    ],
+    "james.hernandez@example.com": [
+        {
+            "Username": "james75",
+            "Identifier": "1009",
+            "First name": "James",
+            "Last name": "Hernandez",
+            "Phone Number": "456-789-0124",
+            "Occupation": "Entrepreneur",
+            "Gender": "Male"
+        }
+    ],
+    "olivia.lopez@example.com": [
+        {
+            "Username": "olivia30",
+            "Identifier": "1010",
+            "First name": "Olivia",
+            "Last name": "Lopez",
+            "Phone Number": "567-890-1235",
+            "Occupation": "Student",
+            "Gender": "Female"
+        }
+    ]
+}
