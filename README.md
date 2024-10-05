@@ -9,7 +9,31 @@ Funzionalità principali:
  - Semplice da usare.
 Questo strumento è ideale per chi deve lavorare con grandi quantità di dati CSV e vuole poterli manipolare in modo efficiente e personalizzato.
 
-## Come usarlo
+## Utilizzo
+
+### Prerequisiti
+Prima di usare il programma, assicurati di avere **Python 3** installato sul tuo sistema. Ecco come installare Python 3 su macOS e Windows:
+
+#### Installare Python 3 su macOS:
+1. Apri il Terminale.
+2. Controlla se Python 3 è già installato digitando:
+   ```bash
+   python3 --version
+
+Se Python 3 è installato, dovresti vedere il numero di versione. 3. Se Python 3 non è installato, installalo usando Homebrew (se non hai Homebrew, puoi installarlo da https://brew.sh/):
+
+brew install python
+
+Dopo l'installazione, verifica digitando:
+   ```bash
+   python3 --version
+
+Installare Python 3 su Windows:
+
+Vai sul sito ufficiale di Python: https://www.python.org/downloads/
+Scarica l'ultima versione di Python 3 per Windows.
+Esegui il programma di installazione e assicurati di selezionare la casella "Add Python to PATH" durante l'installazione.
+Dopo l'installazione, apri il Prompt dei comandi (o PowerShell) e verifica l'installazione digitando:
 
 Marco lizza 2024 ©
 
