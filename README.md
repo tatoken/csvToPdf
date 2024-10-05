@@ -9,6 +9,15 @@ Funzionalità principali:
  - Semplice da usare.
 Questo strumento è ideale per chi deve lavorare con grandi quantità di dati CSV e vuole poterli manipolare in modo efficiente e personalizzato.
 
+## Requisiti e Input
+
+Per utilizzare questo programma, assicurati di avere i seguenti file nella cartella `resources` all'interno della directory del progetto:
+
+1. **logo.png**: Questo file deve contenere il logo che verrà inserito nella parte superiore del documento PDF generato.
+2. **document.csv**: Questo è il file CSV che verrà elaborato per generare il documento PDF.
+3. **collapse.txt**: Questo file deve contenere una sola parola, che è il nome della colonna secondo cui i dati verranno raggruppati (collassati).
+4. **columns.txt**: Questo file deve contenere l'elenco delle colonne che si desidera mantenere nel file CSV.
+
 ## Utilizzo
 
 ### Prerequisiti
@@ -59,6 +68,15 @@ Key Features:
  - Data Aggregation: It is possible to group data based on the values of a specific column, making dataset analysis and management easier.
  - User-friendly.
 This tool is ideal for those working with large amounts of CSV data who want to manipulate it efficiently and in a customized way.
+
+## Requirements and Input
+
+To use this program, ensure you have the following files in the `resources` folder within the project directory:
+
+1. **logo.png**: This file should contain the logo that will be placed at the top of the generated PDF document.
+2. **document.csv**: This is the CSV file that will be processed to generate the PDF document.
+3. **collapse.txt**: This file should contain a single word, which is the name of the column by which the data will be grouped (collapsed).
+4. **columns.txt**: This file should contain the list of columns that you want to keep from the CSV file.
 
 ## Usage
 
