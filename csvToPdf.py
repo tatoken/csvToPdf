@@ -134,7 +134,7 @@ def json_to_pdf(json_file_path, pdf_file_path, logo_path):
             # --- Piedipagina ---
             c.setFont("Poppins-Bold", 10)
             c.setFillColor(colors.grey)
-            c.drawString(50, 30, "Documento generato automaticamente. Pettez © 2024")
+            c.drawString(50, 30, "Documento generato automaticamente. Example © 2024")
             c.setFillColor(header_text_color)
             c.drawRightString(width - 50, 30, f"Pagina {pageNumber}")
             pageNumber += 1
